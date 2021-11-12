@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/campos2.jpg);
+    height: 1536px;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    font-family: 'Source Sans Pro' , sans-serif;
+    background-repeat: no-repeat;
+}
+header{
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#titulo{
+    font-size: 42px;
+    font-family: 'Road Rage', sans-serif;
+    font-style: oblique;
+    padding: 10px;
+    background-color:silver;
+}
+#resumo{
+    font-size: 18px;
+    padding: 10px;
+}
+span{
+    background-color: rgb(80, 80, 80);
+}
+iframe{
+    padding: 10px;
+}
+h2{
+    color: black;
+    padding: 5px;
+    font-family: 'Road Rage', sans-serif;
+    font-size: 35px;
+}
+ul{
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-style: oblique;
+    list-style: none;
+    padding: 10px;
+}
+footer{
+    padding: 20px;
+}
+a{
+    margin: 15px;
+}
+#rodape{
+    background-color: silver;
+    height: 135px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);    
+}
